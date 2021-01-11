@@ -17,7 +17,7 @@ The following is a list of projects along with a brief note about the concepts a
 * Stock _volatility_, and how the GARCH model analyses volatility. See how volatility is used in equity trading.
 * Learn about _pairs trading_, and study the tools used in identifying stock pairs and making trading decision.
 
-### 3. Smart beta and portfolio optimization.
+### 3. Smart beta and portfolio optimization
 
 * Smart Beta Optimization Methodology on various financial securities.
 * Fundamentals of portfolio risk and return.
@@ -55,7 +55,7 @@ and interpret news data.
   - Construct and train LSTM networks for sentiment classification.
   - Run backtests and apply the models to news data for signal generation.
 
-### 7. Combining Signals for Enhanced Alpha.
+### 7. Combining Signals for Enhanced Alpha
 Combine signals on a random forest model for enhanced alpha, while solving the
 problem of overlapping samples.
 * **Decision Tree** - Learn how to do branching decision tree using entropy and information gain. Implement decision tree using `sklearn` and visualize the decision tree using `graphviz`.
@@ -73,10 +73,9 @@ problem of overlapping samples.
 ### 8. Backtesting.
 * Learn best practices of backtesting and see what overfitting can "look like" in practice.
 
-* Learn how to optimization a portfolio with transaction cost. Learn some additional ways to design your optimization with efficiency in mind. This is really helpful when backtesting, because having reasonably shorter runtimes allows you to test and iterate on your alphas more quickly.
-
 * Build a fairly realistic backtester that uses the `Barra data`. The backtester will perform
-portfolio optimization that includes transaction costs, and you’ll implement it with computational efficiency in mind, to allow for a reasonably fast backtest.
+portfolio optimization that includes transaction costs, and you’ll implement it with computational efficiency in mind, to allow for a reasonably fast backtest. This is really helpful when backtesting, because having reasonably shorter runtimes allows you to test and iterate on your alphas more quickly.
 
-## Certificate - [Verification Link]()
-ABC
+
+## Certificate - [Verification Link](https://confirm.udacity.com/SAJ5SHNY)
+![AIT_ND_Certificate](https://user-images.githubusercontent.com/20330371/104146808-0241f480-53f2-11eb-9a5d-f3a8391a4b38.png)
